@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525210588 source:c:\users\lenovo\desktop\ds\queue_linked\main.c
+	<stdio.h>
+	<stdlib.h>
+
